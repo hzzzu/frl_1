@@ -4,7 +4,7 @@ import time
 
 API_URL = 'https://api.telegram.org/bot'
 BOT_TOKEN = '6730354356:AAFDjPDiSwGRZ-eU8qGirwD7E5-cstby3uo'
-TEXT_RESPONSE = 'Ого, ты мне прислал {}!'
+TEXT_RESPONSE = 'Ого, ты помнишь обо мне и прислал {}!'
 
 
 offset = -2
